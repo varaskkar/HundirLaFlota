@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.2.8818
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hundir la Flota", "Hundir la Flota\Hundir la Flota.csproj", "{155664CC-174B-46DD-872B-97E6B4EF437D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155664CC-174B-46DD-872B-97E6B4EF437D}.Debug|x86.Build.0 = Debug|x86
+		{155664CC-174B-46DD-872B-97E6B4EF437D}.Debug|x86.ActiveCfg = Debug|x86
+		{155664CC-174B-46DD-872B-97E6B4EF437D}.Release|x86.Build.0 = Release|x86
+		{155664CC-174B-46DD-872B-97E6B4EF437D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

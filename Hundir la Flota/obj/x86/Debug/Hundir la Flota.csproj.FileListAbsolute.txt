@@ -1,0 +1,15 @@
+D:\Información\Conocimiento\Programación\IDE\C#\Portable\SharpDevelopPortable\Data\SharpDevelop Projects\Hundir la Flota\Hundir la Flota\bin\Debug\Hundir la Flota.exe
+D:\Información\Conocimiento\Programación\IDE\C#\Portable\SharpDevelopPortable\Data\SharpDevelop Projects\Hundir la Flota\Hundir la Flota\bin\Debug\Hundir la Flota.pdb
+D:\Información\Conocimiento\Programación\IDE\C#\Portable\SharpDevelopPortable\Data\SharpDevelop Projects\Hundir la Flota\Hundir la Flota\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Información\Conocimiento\Programación\IDE\C#\Portable\SharpDevelopPortable\Data\SharpDevelop Projects\Hundir la Flota\Hundir la Flota\obj\x86\Debug\Hundir la Flota.exe
+D:\Información\Conocimiento\Programación\IDE\C#\Portable\SharpDevelopPortable\Data\SharpDevelop Projects\Hundir la Flota\Hundir la Flota\obj\x86\Debug\Hundir la Flota.pdb
+D:\Información\Conocimiento\Programación\Lenguajes\C#\Proyectos\Hundir la Flota\Hundir la Flota\bin\Debug\Hundir la Flota.exe
+D:\Información\Conocimiento\Programación\Lenguajes\C#\Proyectos\Hundir la Flota\Hundir la Flota\bin\Debug\Hundir la Flota.pdb
+D:\Información\Conocimiento\Programación\Lenguajes\C#\Proyectos\Hundir la Flota\Hundir la Flota\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Información\Conocimiento\Programación\Lenguajes\C#\Proyectos\Hundir la Flota\Hundir la Flota\obj\x86\Debug\Hundir la Flota.exe
+D:\Información\Conocimiento\Programación\Lenguajes\C#\Proyectos\Hundir la Flota\Hundir la Flota\obj\x86\Debug\Hundir la Flota.pdb
+D:\Información\Conocimiento\Programación\Proyectos\Mios\C#\Hundir la Flota\Hundir la Flota\bin\Debug\Hundir la Flota.exe
+D:\Información\Conocimiento\Programación\Proyectos\Mios\C#\Hundir la Flota\Hundir la Flota\bin\Debug\Hundir la Flota.pdb
+D:\Información\Conocimiento\Programación\Proyectos\Mios\C#\Hundir la Flota\Hundir la Flota\obj\x86\Debug\Hundir la Flota.csprojResolveAssemblyReference.cache
+D:\Información\Conocimiento\Programación\Proyectos\Mios\C#\Hundir la Flota\Hundir la Flota\obj\x86\Debug\Hundir la Flota.exe
+D:\Información\Conocimiento\Programación\Proyectos\Mios\C#\Hundir la Flota\Hundir la Flota\obj\x86\Debug\Hundir la Flota.pdb
