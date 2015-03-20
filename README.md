@@ -5,7 +5,7 @@ En el tablero, la "A" indica agua, mientras que la "B" identifica barco.
 ![avatar](https://i.imgur.com/1fqHKhA.jpg)
 ![avatar](http://i.imgur.com/a69wP1C.jpg)
 
-###Actualizacones
+###Actualizaciones
 #####v0.3 - 02/02/13
 - Ordenado todo el código por POO
 - Arreglado problema al dar J1 a J2 en pos de barco hundido(X) deberia perder turno
