@@ -1,11 +1,11 @@
 # Hundir la Flota
-El juego de Hundir la Flota en C#
+
+En el tablero, la "A" indica agua, mientras que la "B" identifica barco.
 
 ![avatar](https://i.imgur.com/1fqHKhA.jpg)
 ![avatar](http://i.imgur.com/a69wP1C.jpg)
 
-Update v0.3 - 02/02/13
-----------------------------------
+#####Update v0.3 - 02/02/13
 - Ordenado todo el código por POO
 - Arreglado problema al dar J1 a J2 en pos de barco hundido(X) deberia perder turno
 - Solucionado problema al cargar los barcos de forma manual de J1    
@@ -16,8 +16,7 @@ Update v0.3 - 02/02/13
 - Solucionado lo de colocar barco en pos ya coloc antes (colocación manual)
 - Agregada la opción de activar efectos de sonido
 
-Update v0.2 - 12/12/12
-----------------------------------
+#####Update v0.2 - 12/12/12
 - Mejorado el diseño de los mapas
 - Asignación de identidades con carácteres. B = Barco. A = Agua. X = Hundido.- = Desconocido
 - Marcado en el mapa donde se haya atacado en agua para no volver a dar en la misma posición
@@ -28,8 +27,7 @@ Update v0.2 - 12/12/12
 - Se muestra el turno del usuario con su nombre introducido al iniciar
 - Ahora puedes indicar en opciones con cuantos barcos quieres jugar en el mapa. Igual nº para J1 y J2.
 
-Update v0.1 - 2/12/12
--------------------------------
+#####Update v0.1 - 2/12/12
  - Añadidas estadísticas de juego
  - Validación de la colocación y del ataque (mejorado)
  - Cuando destruyes un barco, puedes volver a atacar (como en el parchís)
