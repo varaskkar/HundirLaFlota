@@ -37,4 +37,4 @@ En el tablero, la "A" indica agua, mientras que la "B" identifica barco.
  - Ahora puedes elegir entre colocar los barcos automáticamente o manualmente.
 
 ###Licencia
-Este proyecto está bajo la licencia [GNU v2](https://github.com/felipetiza/barco/blob/master/LICENSE).
+Este proyecto está bajo la licencia [GNU GPL v2](https://github.com/felipetiza/barco/blob/master/LICENSE).
